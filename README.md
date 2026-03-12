@@ -6,7 +6,7 @@ An **Edge-AI based smart agriculture system** that detects crops using computer 
 
 ##  Hardware Prototype
 
-![Hardware Setup](hardware_setup.jpeg)
+![Hardware Setup](hardware_steup.jpeg)
 
 Prototype of the selective pesticide spraying robot built using embedded electronics, motor drivers, and a spray mechanism mounted on a mobile platform.
 
